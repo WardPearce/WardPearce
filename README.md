@@ -1,16 +1,17 @@
-### Hi there 👋
+## Current projects
+- [NexusLeague](https://github.com/NexusLeague)
+- [SQLMatches](https://github.com/SQLMatches)
 
-<!--
-**WardPearce/WardPearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Future projects
+- [Slashcord](https://github.com/Slashcord)
+- [DemoRecorder](https://github.com/DemoRecorder)
+- [DiscordREST](https://github.com/DiscordREST)
+- [stripe3](https://github.com/WardPearce/stripe3)
+- pterodactyl
+- Typescript Dathost
+- [DathostPlus](https://github.com/WardPearce/DathostPlus)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+- [Twitter](https://twitter.com/wardweeb)
+- [Site](https://wardpearce.com)
+- Ward#0001
