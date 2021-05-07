@@ -4,6 +4,7 @@
 
 ## Future projects
 - [Slashcord](https://github.com/Slashcord)
+- [aiocsgo](https://github.com/WardPearce/aiocsgo)
 - [DemoRecorder](https://github.com/DemoRecorder)
 - [DiscordREST](https://github.com/DiscordREST)
 - [stripe3](https://github.com/WardPearce/stripe3)
