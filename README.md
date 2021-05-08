@@ -8,9 +8,8 @@
 - [DemoRecorder](https://github.com/DemoRecorder)
 - [DiscordREST](https://github.com/DiscordREST)
 - [stripe3](https://github.com/WardPearce/stripe3)
-- pterodactyl
-- Typescript Dathost
-- [DathostPlus](https://github.com/WardPearce/DathostPlus)
+- [Dathost TypeScript](https://github.com/UnofficialDathost/TypeScript)
+- [Dathost Interface](https://github.com/UnofficialDathost/Interface)
 
 ## Socials
 - [Twitter](https://twitter.com/wardweeb)
