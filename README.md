@@ -1,5 +1,5 @@
 ## Current projects
-- [NexusLeague](https://github.com/NexusLeague)
+- [Skrim.gg](https://github.com/SkrimGG)
 - [SQLMatches](https://github.com/SQLMatches)
 - [Dathost Interface](https://github.com/UnofficialDathost/Interface)
 
