@@ -1,6 +1,6 @@
 ## Current projects
 - [Skrim.gg](https://github.com/SkrimGG)
-- [SQLMatches](https://github.com/SQLMatches)
+- [SQLMatches](https://github.com/SQLMatches) (1.0.0)
 - [GooseStore](https://github.com/WardPearce/GooseStore)
 
 ## Planned updates
