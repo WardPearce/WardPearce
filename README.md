@@ -6,6 +6,9 @@
 ## Planned updates
 - [Dathost Interface](https://github.com/UnofficialDathost/Interface)
 
+## Needed redesign
+-[OBRequests](https://github.com/Object-Based/Requests)
+
 ## Future projects
 - [Slashcord](https://github.com/Slashcord)
 - [aiocsgo](https://github.com/WardPearce/aiocsgo)
