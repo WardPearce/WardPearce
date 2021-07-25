@@ -16,7 +16,18 @@
 - [DiscordREST](https://github.com/DiscordREST)
 - [stripe3](https://github.com/WardPearce/stripe3)
 
-## Socials
+## Used 
+- Vue
+- Python
+- MongoDB
+- Typescript
+- MySQL
+- Asyncio
+- Docker
+- Starlette
+- SQLite
+
+## Contact
 - [Twitter](https://twitter.com/wardweeb)
 - [Site](https://wardpearce.com)
 - Ward#0001
