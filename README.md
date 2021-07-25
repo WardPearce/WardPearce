@@ -1,6 +1,9 @@
 ## Current projects
 - [Skrim.gg](https://github.com/SkrimGG)
 - [SQLMatches](https://github.com/SQLMatches)
+- [GooseStore](https://github.com/WardPearce/GooseStore)
+
+## Planned updates
 - [Dathost Interface](https://github.com/UnofficialDathost/Interface)
 
 ## Future projects
