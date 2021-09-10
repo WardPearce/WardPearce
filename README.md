@@ -1,10 +1,8 @@
 ## Current projects
-- None
+- [SQLMatches](https://github.com/SQLMatches)
 
 ## Planned updates
 - [Dathost Interface](https://github.com/UnofficialDathost/Interface)
-
-## Needed redesign
 - [OBRequests](https://github.com/Object-Based/Requests)
 
 ## Future projects
