@@ -20,4 +20,4 @@
 ## Contact
 - [Twitter](https://twitter.com/wardweeb)
 - [Site](https://wardpearce.com)
-- Hazel#0001
+- Ward#0001
