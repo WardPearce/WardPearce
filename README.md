@@ -4,7 +4,6 @@
 - dataDash
 - Convert backblaze to OBRequests
 - Convert dathost to OBRequests
-- Convert proxycheck to OBRequests
 
 ## My orgs
 - [SQLMatches](https://github.com/SQLMatches)
