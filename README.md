@@ -22,6 +22,7 @@
 - Docker
 - Starlette
 - SQLite
+- Django
 
 ## Contact
 - [Twitter](https://twitter.com/wardweeb)
