@@ -27,4 +27,3 @@
 ## Contact
 - [Twitter](https://twitter.com/wardweeb)
 - [Site](https://wardpearce.com)
-- ward#9818
