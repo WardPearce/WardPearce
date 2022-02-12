@@ -4,7 +4,6 @@
 - [SQLMatches](https://github.com/SQLMatches)
 - [Object-Based](https://github.com/Object-Based)
 - [UnofficialDathost](https://github.com/UnofficialDathost)
-- [privfiles](https://github.com/privfiles)
 
 ## Used 
 - Vue
