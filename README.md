@@ -17,6 +17,7 @@
 - MySQL
 - Asyncio
 - Docker
+- Svelte
 - Starlette
 - SQLite
 - Django
