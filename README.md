@@ -22,5 +22,5 @@
 - Django
 
 ## Contact
-- [Twitter](https://twitter.com/wardweeb)
+- [Twitter](https://twitter.com/corruptward)
 - [Site](https://wardpearce.com)
