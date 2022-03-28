@@ -8,19 +8,6 @@
 - [SQLMatches](https://github.com/SQLMatches)
 - [UnofficialDathost](https://github.com/UnofficialDathost)
 
-## Used 
-- Vue
-- Python
-- MongoDB
-- Typescript
-- MySQL
-- Asyncio
-- Docker
-- Svelte
-- Starlette
-- SQLite
-- Django
-
 ## Contact
 - [Twitter](https://twitter.com/corruptward)
 - [Site](https://wardpearce.com)
