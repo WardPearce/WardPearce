@@ -1,4 +1,4 @@
-[Portfolio](https://wardpearce.com)
+[wardpearce.com](https://wardpearce.com)
 
 ### Matrix
 [My account](https://matrix.to/#/@wardp:matrix.org) -
