@@ -11,7 +11,8 @@
 [py-styles](https://github.com/WardPearce/py-styles) - 
 [aioquery](https://github.com/WardPearce/aioquery) -
 [OBRequests](https://github.com/WardPearce/OBRequests) -
-[proxycheck](https://github.com/WardPearce/proxycheck)
+[proxycheck](https://github.com/WardPearce/proxycheck) -
+[jellyfin session kicker](https://github.com/WardPearce/jellyfin-session-kicker)
 
 [Unofficial Dathost Interface](https://github.com/UnofficialDathost/Interface) -
 [Unofficial Dathost TypeScript](https://github.com/UnofficialDathost/TypeScript) -
