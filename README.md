@@ -6,7 +6,6 @@
 
 ### Projects
 [paaster](https://github.com/WardPearce/paaster) -
-[SQLMatches](https://github.com/SQLMatches/API) -
 [thanker](https://github.com/WardPearce/thanker) -
 [py styles](https://github.com/WardPearce/py-styles) - 
 [aioquery](https://github.com/WardPearce/aioquery) -
