@@ -11,7 +11,8 @@
 [aioquery](https://github.com/WardPearce/aioquery) -
 [OBRequests](https://github.com/WardPearce/OBRequests) -
 [proxycheck](https://github.com/WardPearce/proxycheck) -
-[jellyfin session kicker](https://github.com/WardPearce/jellyfin-session-kicker)
+[jellyfin session kicker](https://github.com/WardPearce/jellyfin-session-kicker) -
+[paaster cli](https://github.com/WardPearce/paaster-cli)
 
 [capyend](https://github.com/capylife/capyend) -
 [flappycapy](https://github.com/capylife/flappycapy) -
@@ -25,7 +26,6 @@
 ### In-development
 [fosshare](https://github.com/fosshare) -
 [sqlDash](https://github.com/sqlDash) -
-[paaster client](https://github.com/WardPearce/paaster-client)
 
 ### Non-priority projects
 [SQLMatches](https://github.com/SQLMatches) -
