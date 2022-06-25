@@ -25,7 +25,7 @@
 
 ### In-development
 [fosshare](https://github.com/fosshare) -
-[sqlDash](https://github.com/sqlDash) -
+[sqlDash](https://github.com/sqlDash)
 
 ### Non-priority projects
 [SQLMatches](https://github.com/SQLMatches) -
