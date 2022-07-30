@@ -23,14 +23,6 @@
 [Unofficial Dathost TypeScript](https://github.com/UnofficialDathost/TypeScript) -
 [Unofficial Dathost Python](https://github.com/UnofficialDathost/Python)
 
-### In-development
-[fosshare](https://github.com/fosshare) -
-[sqlDash](https://github.com/sqlDash)
-
-### Non-priority projects
-[SQLMatches](https://github.com/SQLMatches) -
-[OpenQueue](https://github.com/OpenQueue)
-
 ### Archived Projects
 [legacy privfiles](https://github.com/privfiles/legacy-privfiles) -
 [SourceQueryBot](https://github.com/WardPearce/SourceQueryBot) -
