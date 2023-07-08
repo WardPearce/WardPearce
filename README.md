@@ -5,3 +5,4 @@
 
 ### Contacts
 - [@wardpearce:matrix.org](https://matrix.to/#/@wardpearce:matrix.org)
+- [wardpearce@pm.me](mailto:wardpearce@pm.me)
