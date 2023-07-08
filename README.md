@@ -5,4 +5,5 @@
 
 ### Contacts
 - [@wardpearce:matrix.org](https://matrix.to/#/@wardpearce:matrix.org)
+- [mastodon.social/@wardpearce](https://mastodon.social/@wardpearce)
 - [wardpearce@pm.me](mailto:wardpearce@pm.me)
