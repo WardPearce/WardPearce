@@ -4,4 +4,4 @@
 - [capy.life](https://capy.life)
 
 ### Contacts
-- [@wardpearce:matrix.org]-(https://matrix.to/#/@wardpearce:matrix.org)
+- [@wardpearce:matrix.org](https://matrix.to/#/@wardpearce:matrix.org)
