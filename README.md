@@ -2,8 +2,6 @@
 - [wardpearce.com](https://wardpearce.com)
 - [paaster.io](https://paaster.io)
 - [materialio.us](https://materialio.us/)  
-- [purplix.io](https://purplix.io/)
-- [capy.life](https://capy.life)
 
 ### Contacts
 - [@wardpearce:matrix.org](https://matrix.to/#/@wardpearce:matrix.org)
